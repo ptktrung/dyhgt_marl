@@ -1,0 +1,7 @@
+policy,"Revenue recovered, percent",Decision error rate,False accept rate,Abstention rate,"Review workload, percent",Equal opportunity gap,Demographic parity gap,Seeds
+pg_centralized_constrained,93.8014 ± 0.0000,0.0211 ± 0.0000,0.0211 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,5
+pg_decentralized_constrained,93.8014 ± 0.0000,0.0211 ± 0.0000,0.0211 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,5
+pg_decentralized_utility_max,93.8014 ± 0.0000,0.0211 ± 0.0000,0.0211 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,0.0000 ± 0.0000,5
+tabular_centralized_constrained,87.7388 ± 2.6707,0.0262 ± 0.0061,0.0127 ± 0.0032,0.1773 ± 0.1100,17.7282 ± 10.9974,0.0006 ± 0.0005,0.0027 ± 0.0015,5
+tabular_decentralized_constrained,88.8059 ± 1.3953,0.0240 ± 0.0068,0.0136 ± 0.0024,0.1339 ± 0.0552,13.3859 ± 5.5154,0.0010 ± 0.0013,0.0046 ± 0.0021,5
+tabular_decentralized_utility_max,87.4043 ± 2.0206,0.0290 ± 0.0104,0.0135 ± 0.0013,0.1800 ± 0.0670,18.0015 ± 6.7011,0.0008 ± 0.0005,0.0047 ± 0.0026,5
